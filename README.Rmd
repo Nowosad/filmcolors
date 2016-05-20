@@ -43,7 +43,7 @@ knitr::include_graphics('figs/Vertigo.png')
 film_colors("Vertigo")
 ```
 
-```{r Vertigo_gg2, fig.height=3.5}
+```{r, Vertigo_gg2, fig.height=3.5}
 library('ggplot2')
 ggplot(mtcars, aes(mpg, hp, color=as.factor(carb))) +  geom_point(size=8) +
   scale_color_manual(values = film_colors("Vertigo"))
