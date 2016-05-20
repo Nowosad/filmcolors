@@ -39,7 +39,7 @@ names(film_palettes)
 
 ```{r, echo=FALSE}
 library('knitr')
-knitr::include_graphics('figs/Vertigo.png')
+knitr::include_graphics('figure/Vertigo.png')
 ```
 
 ```{r, Vertigo}

@@ -24,7 +24,7 @@ names(film_palettes)
 
 ### Vertigo (1958)
 
-<img src="figs/Vertigo.png" width="1920" />
+<img src="figure/Vertigo.png" width="1920" />
 
 ``` r
 film_colors("Vertigo")
