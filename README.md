@@ -2,6 +2,8 @@
 Film Palettes
 =============
 
+[![Build Status](https://travis-ci.org/Nowosad/filmcolors.png?branch=master)](https://travis-ci.org/Nowosad/filmcolors)
+
 Installation
 ------------
 
