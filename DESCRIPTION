@@ -1,7 +1,7 @@
 Package: filmcolors
 Title: A Film Color Palette Generator
-Description: Palettes generated mostly from movies.
-Version: 0.1.0
+Description: Palettes generated from movies.
+Version: 0.1.5
 Authors@R: c(person("Jakub", "Nowosad", role = c("aut", "cre"), email = "nowosad.jakub@gmail.com"))
 Depends:
     R (>= 3.0)

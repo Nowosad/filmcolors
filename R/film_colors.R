@@ -1,12 +1,3 @@
-#' Complete list of palettes
-#'
-#' Use \code{\link{film_colors}} to construct palettes of desired length.
-#'
-#' @export
-film_palettes <- list(
-  Vertigo = c("#060306", "#131325", "#290705", "#352E3C", "#450B0B", "#621D20", "#6D575D", "#8C8597")
-)
-
 #' A Film Color Palette Generator
 #'
 #' These are a handful of color palettes from movies.

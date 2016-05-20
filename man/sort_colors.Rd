@@ -16,7 +16,7 @@ A vector of colors.
 A Color Sorting Function
 }
 \examples{
-colors <- c("#060306", "#131325", "#290705")
+colors <- c("#060306", "#290705", "#131325")
 sorted_colors <- sort_colors(colors)
 sorted_colors
 }
