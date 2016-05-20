@@ -1,0 +1,17 @@
+Package: filmcolors
+Title: A Film Color Palette Generator
+Description: Palettes generated mostly from movies.
+Version: 0.1.0
+Authors@R: c(person("Jakub", "Nowosad", role = c("aut", "cre"), email = "nowosad.jakub@gmail.com"))
+Depends:
+    R (>= 3.0)
+License: MIT + file LICENSE
+LazyData: true
+Imports:
+    colorspace,
+    methods
+Suggests:
+    ggplot2
+URL: https://github.com/nowosad/filmcolors
+BugReports: https://github.com/nowosad/filmcolors/issues
+RoxygenNote: 5.0.1
